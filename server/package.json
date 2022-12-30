@@ -1,0 +1,22 @@
+{
+  "name": "petsaviours",
+  "version": "1.0.0",
+  "description": "a blood donation website for animals",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon src/app.js"
+  },
+  "author": "atri sukul",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.5",
+    "path": "^0.12.7"
+  }
+}
