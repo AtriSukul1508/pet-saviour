@@ -25,7 +25,7 @@ const LogIn = () => {
       if (res.status === 422 || res.status === 401 || res.status === 400 || !data) {
         console.log(res.status);
         console.log(data);
-        console.log('User login unsuccessfull');
+        console.log('User login failed');
       }
       else {
         console.log("User logged in successfully");
