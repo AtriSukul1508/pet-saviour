@@ -32,7 +32,7 @@ const LogIn = () => {
         navigate('/donate');
       }
     } catch (err) {
-      console.log(`Error while sending data to the backend from front end during signing in - ${err}`);
+      console.log(`Error while loging in - ${err}`);
     }
   }
   return (
