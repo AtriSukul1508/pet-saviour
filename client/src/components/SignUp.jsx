@@ -43,7 +43,7 @@ const SignUp = () => {
         navigate('/');
       }
     } catch (err) {
-      console.log(`Error while posting data from frontend -${err}`);
+      console.log(`Error while creating your account -${err}`);
     }
   }
   return (
