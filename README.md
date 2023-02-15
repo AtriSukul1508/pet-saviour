@@ -1,4 +1,4 @@
-# pet-saviour
+# Pet-saviour
 Blood donation website for pets
 ![ps4](https://user-images.githubusercontent.com/95478617/210085672-c3e1c7b6-600a-460f-89b8-ece0c5ce8350.png)
 ![ps3](https://user-images.githubusercontent.com/95478617/210085676-853f2e56-73cf-45d9-b0fb-c8cd69dd59b4.png)
