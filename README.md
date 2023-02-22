@@ -1,5 +1,5 @@
 # <h1>pet-saviour</h1>
-Blood donation website for pets -
+<strong>Blood donation website for pets</strong> -
 #
 
 ![ps1](https://user-images.githubusercontent.com/95478617/210085680-bcb5dbd7-5e53-47fa-aef7-1cb8441ae66d.png)
