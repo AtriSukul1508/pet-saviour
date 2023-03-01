@@ -1,6 +1,6 @@
 # <h1>pet-saviour</h1>
 <strong>Blood donation website for pets</strong> -
-<hr>
+<hr> 
 <strong>An overview of the website</strong> - 
 <hr> 
  
